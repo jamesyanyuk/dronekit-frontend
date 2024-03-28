@@ -1,4 +1,4 @@
-import { LogoMark } from "@/icons/logomark";
+import { LogoMark } from "@/icons/LogoMark";
 import { TypeAnimation } from "react-type-animation";
 
 export default function Home() {
