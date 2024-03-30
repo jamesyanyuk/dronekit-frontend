@@ -3,7 +3,7 @@ import { TypeAnimation } from "react-type-animation";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col font-mono text-[13px] text-neutral-400">
+    <main className="flex min-h-dvh flex-col font-mono text-[13px] text-neutral-400">
       <div className="m-auto">
         <LogoMark className="size-10 flex-none" />
         <p className="mt-1.5 w-full min-w-64">modular drone platform</p>
