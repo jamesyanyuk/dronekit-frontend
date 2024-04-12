@@ -25,7 +25,7 @@ export default function Document() {
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000" />
         <meta name="msapplication-TileColor" content="#000000" />
       </Head>
-      <body className="bg-neutral-900">
+      <body className="bg-black font-alliance-one">
         <Main />
         <NextScript />
       </body>
