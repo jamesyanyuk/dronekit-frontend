@@ -185,7 +185,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>DroneKit: Vertically Integrated & Modular Drone Platform</title>
+        <title>DroneKit: Vertically-Integrated & Modular Drone Platform</title>
       </Head>
 
       <style jsx global>{`
