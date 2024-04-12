@@ -9,7 +9,7 @@ export default function Home() {
         <p className="mt-6 w-full min-w-64 font-alliance-two">
           Vertically-integrated, modular, and open-source drone ecosystem.
         </p>
-        <code className="mt-6 block whitespace-pre-line rounded-lg bg-neutral-900 p-4 text-neutral-500 ring-1 ring-neutral-800">
+        <code className="mt-6 block whitespace-pre-line rounded-lg bg-neutral-900 p-4 text-neutral-400 ring-1 ring-neutral-800">
           <TypeAnimation
             sequence={[
               "# flight controllers",
