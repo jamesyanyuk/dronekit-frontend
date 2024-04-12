@@ -31,10 +31,10 @@ export default function Home() {
             className="font-mono text-sm"
           />
         </code>
-        <p className="mt-3 max-w-72 text-xs text-neutral-600">
+        <p className="mt-3 max-w-72 text-xs text-neutral-500">
           Manufactured in the US, compliant with S.473 (
           <a
-            className="text-neutral-500 no-underline hover:text-neutral-400"
+            className="text-neutral-400 no-underline hover:text-neutral-400"
             href="https://www.congress.gov/bill/118th-congress/senate-bill/473"
             target="_blank"
             rel="noopener noreferrer"
