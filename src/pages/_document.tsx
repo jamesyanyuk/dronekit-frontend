@@ -26,7 +26,7 @@ export default function Document() {
         <meta name="msapplication-TileColor" content="#000000" />
         <meta name="theme-color" content="#000000" />
       </Head>
-      <body className="bg-black font-alliance-one antialiased pb-safe">
+      <body className="bg-black font-alliance-one antialiased">
         <Main />
         <NextScript />
       </body>
