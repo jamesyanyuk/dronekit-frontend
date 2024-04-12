@@ -45,7 +45,7 @@ export default function Home() {
         </p>
       </div>
 
-      <footer className="bottom-0 inline-flex w-full flex-none p-6 text-neutral-500">
+      <footer className="inline-flex w-full flex-none p-6 text-neutral-500 pb-safe">
         <span>© {new Date().getFullYear()} DroneKit</span>
         <a
           href="https://discord.gg/nkzPH2bnRB"
