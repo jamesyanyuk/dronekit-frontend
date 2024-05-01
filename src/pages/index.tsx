@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <main className="flex min-h-dvh flex-col text-base text-neutral-400">
       <div className="m-auto p-6">
-        <DroneKitPlatform className="flex h-6 text-white" />
-        <p className="mt-6 w-full min-w-64 font-alliance-two">
+        <DroneKitPlatform className="flex h-10 text-white" />
+        <p className="mt-4 w-full min-w-64 font-alliance-two">
           Vertically-integrated, modular, and open-source drone ecosystem.
         </p>
         <code className="mt-6 block whitespace-pre-line rounded-lg bg-neutral-900 p-4 text-neutral-400 ring-1 ring-neutral-800">
@@ -32,7 +32,7 @@ export default function Home() {
           />
         </code>
         <p className="mt-3 max-w-72 text-xs text-neutral-500">
-          Manufactured in the US, compliant with S.473 (
+          Assembled in the US, compliant with S.473 (
           <a
             className="text-neutral-400 no-underline hover:text-neutral-400"
             href="https://www.congress.gov/bill/118th-congress/senate-bill/473"
