@@ -46,7 +46,7 @@ export default function Home() {
       </div>
 
       <footer className="flex w-full flex-none px-6 pt-6 text-neutral-500 pb-safe-offset-6">
-        <span>© {new Date().getFullYear()} DroneKit</span>
+        <span>© {new Date().getFullYear()} DroneKit, LLC</span>
         <a
           href="https://discord.gg/nkzPH2bnRB"
           target="_blank"
